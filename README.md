@@ -88,15 +88,3 @@ Note 2: Make sure you add .env to your .gitignore before pushing any changes to 
 * DigitalOcean
 
 Note: You will need Docker installed locally if you want to test your Docker configutation
-
-## Let's keep in touch
-- [Subscribe on YouTube](https://www.youtube.com/TomDoesTech)
-- [Discord](https://discord.gg/4ae2Esm6P7)
-- [Twitter](https://twitter.com/tomdoes_tech)
-- [TikTok](https://www.tiktok.com/@tomdoestech)
-- [Facebook](https://www.facebook.com/tomdoestech)
-- [Instagram](https://www.instagram.com/tomdoestech)
-
-[Buy me a Coffee](https://www.buymeacoffee.com/tomn)
-
-[Sign up to DigitalOcean 💖](https://m.do.co/c/1b74cb8c56f4)
